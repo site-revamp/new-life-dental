@@ -1,31 +1,31 @@
-# Raffles Medical Group — Homepage Redesign
+# Newlife Dental Practice — Homepage Redesign
 
 ## Website Overview
 
-Raffles Medical Group is a Singapore-founded integrated private healthcare group providing primary, specialist and hospital care, alongside dental services, health screening, insurance and corporate healthcare.
+Newlife Dental Practice is a multidisciplinary dental practice at Clarke Quay, Singapore, serving individuals and families. Its services include general, aesthetic and children’s dentistry, orthodontics and emergency dental care, with an emphasis on patient education and coordinated care.
 
-The website serves patients, families, preventive-health customers, international patients and employers. The redesigned homepage prioritises direct appointment enquiries, easier access to service information and readable appointment buttons.
+The redesigned homepage prioritises current clinic links, consistent contact information and straightforward enquiry options before the full booking process.
 
 ## Three Main Improvements
 
-### 1. A Direct Next Step in the Hero
+### 1. Current Clinic Links
 
-A “Request an appointment” button and phone link provide direct contact options in the hero. These address the previous reliance on “Learn More” as the main hero action, making the appointment next step immediately available.
+Live clinic links replace the archived directory destination previously linked from the hero’s “dental clinic near me” text. Visitors now have a current route to clinic information from the opening section.
 
-### 2. Clickable Service Headings
+### 2. Consistent Clinic Selection
 
-Each service heading now links to its relevant page. Previously, these headings were not clickable. Visitors can now move directly from a service title to the corresponding treatment information.
+A consistent selector presents published clinic address, telephone and WhatsApp details. This addresses differences in names and options between the previous directory and enquiry form, providing consistent information during the enquiry journey.
 
-### 3. More Readable Appointment Buttons
+### 3. Easier Initial Enquiries
 
-Appointment button text has increased from 13px to 16–17px, with higher-contrast green or darker gold styling. This addresses the previous white-on-gold treatment, which had approximately 3.53:1 contrast, making appointment labels easier to read.
+Call, WhatsApp and email options are clearly available before the full booking process. Previously, the form requested treatment, date and time details before visitors might know what they needed. Patients can now seek guidance before supplying those booking details.
 
 ## Design Improvements
 
-- **Visual hierarchy:** The hero gives appointment enquiries a prominent, explicit action.
-- **Navigation consistency:** Service headings link directly to their corresponding information pages.
-- **Typography and colour:** Larger labels and higher-contrast colours improve appointment button readability.
-- **User experience:** Direct contact options and linked headings reduce the steps needed to enquire or explore services.
+- **Navigation:** The hero links to current clinic information.
+- **Consistency:** The selector presents published contact details in one consistent format.
+- **Visual hierarchy:** Direct enquiry options are clearly available before booking.
+- **User experience:** Patients can contact the practice without first choosing a treatment or appointment time.
 
 ## Project Reference
 
